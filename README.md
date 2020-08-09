@@ -52,6 +52,7 @@ Baixar e executar Mobile (a partir da raiz)
 ```bash
 cd mobile
 yarn
+```
 
 ## Configurações
 
